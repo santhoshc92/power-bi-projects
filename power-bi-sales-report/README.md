@@ -1,6 +1,6 @@
 # **Sales Performance Report – Power BI**
 
-##**Project Overview**
+## **Project Overview**
 
 This project is an end-to-end Sales Performance Report built using Microsoft Power BI.
 It covers data preparation, modeling, DAX calculations, and interactive dashboards to analyze sales, returns, customers, and products across multiple dimensions.
